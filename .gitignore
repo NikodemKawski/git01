@@ -11,4 +11,5 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-# .dock bestanden niet toevoegen
+# .doc bestanden niet toevoegen
+*.doc*
