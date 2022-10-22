@@ -13,3 +13,6 @@
 *.vsix
 # .docx bestanden niet toevoegen
 *.docx*
+
+#.ds files
+*.ds*
